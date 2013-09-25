@@ -1,0 +1,2 @@
+defmodule AssertReceiveBug do
+end
